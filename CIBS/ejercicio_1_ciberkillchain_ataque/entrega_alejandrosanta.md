@@ -3,9 +3,8 @@
 
 # Alumno
 
-Alejandro Santa Calderón
-
-Facultad de ingeniería UBA
+####Alejandro Santa Calderón
+####Facultad de ingeniería UBA
 
 # Sistema de monitoreo de corriente de fuga y contaminación.
 
@@ -78,7 +77,7 @@ Para evitar la detección, utilizaré **Ofuscación de Datos (T1001)** en mi com
 
 Finalmente, he llegado a la fase de **Acciones en los Objetivos (T1565)**. Mi objetivo principal es **Manipulación de Datos (T1565.001)** del sistema de monitoreo. Continuaré enviando los datos falsificados de humedad, temperatura y corriente de fuga para que el personal de la subestación crea que las condiciones son normales y seguras.
 
-Como resultado de esta manipulación, el **Lavado de Activos Industriales (T0883)** programado de la subestación no se realizará debido a la falsa sensación de seguridad. Con el tiempo, la acumulación de contaminantes en los aisladores de alta tensión, combinada con condiciones ambientales reales (alta humedad, niebla salina si aplica), aumentará la corriente de fuga hasta alcanzar un punto crítico.
+Como resultado de esta manipulación, el lavado de los equipos programado en función de la información del sistema de monitoreo de la subestación no se realizará debido a la falsa sensación de seguridad. Con el tiempo, la acumulación de contaminantes en los aisladores de alta tensión, combinada con condiciones ambientales reales (alta humedad, niebla salina si aplica), aumentará la corriente de fuga hasta alcanzar un punto crítico.
 
 Esta desatención de la carga, causada directamente por la información manipulada en el sistema de monitoreo, conducirá a un **Flashover (T0884)** en los equipos de alta tensión, provocando una falla significativa, interrupción del suministro eléctrico y las consecuentes **Pérdidas de Disponibilidad (T1753)** y **Pérdidas Financieras (T1753.001)** millonarias para la empresa por la interrupción de la carga y los daños a los equipos. Mi objetivo final de sabotaje se habrá cumplido.
 
