@@ -3,8 +3,8 @@
 
 # Alumno
 
-####Alejandro Santa Calderón
-####Facultad de ingeniería UBA
+**Alejandro Santa Calderón**
+**Facultad de ingeniería UBA**
 
 # Sistema de monitoreo de corriente de fuga y contaminación.
 
